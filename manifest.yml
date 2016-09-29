@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: sncf-eva.eu-fr.bluemix.net
+  name: pmtest01
+  host: pmtest01
+  disk_quota: 1024M
